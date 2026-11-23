@@ -1,0 +1,20 @@
+{
+  "list_variants": {
+    "3": {"name": "Три пункта", "layout": "A007", "items_field": "items", "max_items": 3},
+    "4": {"name": "Четыре пункта", "layout": "A007", "items_field": "items", "max_items": 4},
+    "5": {"name": "Пять пунктов", "layout": "A007", "items_field": "items", "max_items": 5},
+    "6": {"name": "Шесть пунктов", "layout": "A007", "items_field": "items", "max_items": 6}
+  },
+  "table_variants": {
+    "2x2": {"name": "Матрица 2x2", "layout": "A009", "rows": 2, "cols": 2},
+    "2x3": {"name": "Таблица 2x3", "layout": "A020", "rows": 2, "cols": 3},
+    "3x3": {"name": "Таблица 3x3", "layout": "A020", "rows": 3, "cols": 3},
+    "3x4": {"name": "Таблица 3x4", "layout": "A020", "rows": 3, "cols": 4}
+  },
+  "metric_variants": {
+    "1": {"name": "Одна метрика", "layout": "A015"},
+    "3": {"name": "Три метрики", "layout": "A016", "count": 3},
+    "4": {"name": "Четыре метрики", "layout": "A016", "count": 4},
+    "6": {"name": "Шесть метрик", "layout": "A016", "count": 6}
+  }
+}
