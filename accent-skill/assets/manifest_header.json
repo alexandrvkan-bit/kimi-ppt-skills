@@ -1,0 +1,10 @@
+{
+  "library": "assets/library.pptx",
+  "font": "Raleway",
+  "scale": {
+    "title": 1.0,
+    "accent": 1.0,
+    "text": 1.0,
+    "meta": 1.0
+  }
+}
